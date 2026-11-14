@@ -1,0 +1,29 @@
+.contenedor-de-tarjetas{
+    display:flex;
+    justify-content: flex;
+    gap: 25px;
+    padding:40px 20px;
+    flex-wrap: wrap;
+}
+.tarjeta{
+    background-color: white;
+    border-radius:15px;
+    padding:25px;
+    text-align:center;
+    width: 260px;
+    box-shadow:0 4px 12px rgba(0 ,0,0,0.1)
+}
+@media (max-width: 600px) {
+    .contenedor-de-tarjetas {
+        display:flex;
+        align-items: center;
+        flex-direction: column;
+    }
+}
+.tarjeta img {
+    width: 110px;
+    height: 110px;
+    border-radius: 10px; 
+    object-fit: cover ;
+
+}
