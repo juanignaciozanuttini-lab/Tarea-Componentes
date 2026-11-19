@@ -1,5 +1,5 @@
 import { useState } from 'react'
-import Tarjeta from "./Tarjeta.jsx"
+import Tarjeta from "./Tarjetas.jsx"
 import "./App.css"
 
 function App () {

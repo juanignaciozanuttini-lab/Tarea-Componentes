@@ -1,14 +1,14 @@
 # Tarjetas de presentación en ReactJS
 
-##Descripción:
+## Descripción:
 
 Este proyecto basicamente consiste en una página web que muestra tres tarjetas de presentación con información diferente.
 
-##Tegnologias utilizadas:
+## Tegnologias utilizadas:
 
 Usé ReactJS junto a css
 
-##Componentes
+## Componentes
 
 Tajeta.jsx: Define el componente Tarjeta,que luego recibe Props y las utiliza para mostrar información com el nombre,la profesión,la imagen y la descripción de cada persona
 
